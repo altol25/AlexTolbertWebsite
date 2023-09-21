@@ -28,7 +28,7 @@ content:
   email: alexander.tolbert@emory.edu
   phone: +1 (470) 547-2185
   address:
-    street: 36 Eagle Row, 5th Floor, PAIS 700
+    street: 36 Eagle Row, 5th Floor, PAIS 570
     city: Atlanta
     region: GA
     postcode: '30322'
