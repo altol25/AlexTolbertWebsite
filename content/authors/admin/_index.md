@@ -63,7 +63,7 @@ My doctoral journey was guided by my advisors [Anita Allen](https://www.law.upen
 
 Before my time at Penn, I obtained master's degrees in Biochemistry and Philosophy from Virginia Polytechnic Institute and State University, and a B.S. in Biology from the University of Mobile.
 
-My research is situated at the intersection of philosophy, computation, methodology, and society. I employ a backward-thinking methodology, initiating with the end goal and then working backwards to craft simple, yet potentially insightful models. The central goal when working with a simple model is to devise a solution that unveils a structure, offering insights into the real world. This often involves finding structure through the exploration of various optimization problems.
+My research is situated at the intersection of philosophy, computation, methodology, and society. I employ a means-end methodology, initiating with the end goal and then working backwards to craft simple, yet potentially insightful models. The central goal when working with a simple model is to devise a solution that unveils a structure, offering insights into the real world. This often involves finding structure through the exploration of various optimization problems.
 
 The objective is not merely to find structures but to unearth those that hold substantial meaning, aiming for a qualitative structure in the solution that could potentially resonate in policy discussions. Essentially, the aspiration is to derive a qualitative structure from a simple model that can be applied to real-world problems, bridging the theoretical and the practical.
 
