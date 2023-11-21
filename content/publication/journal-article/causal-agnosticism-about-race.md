@@ -20,7 +20,7 @@ publishDate:
 summary:  
 tags:
 - Source Themes
-title: Causal Agnosticism about Race
+title: Causal Agnosticism about Race: Variable Selection Problems in Causal Inference
 url_code:  
 url_dataset: ""
 url_pdf: http://philsci-archive.pitt.edu/22375/1/CausalAgnosticismAboutRace.pdf
