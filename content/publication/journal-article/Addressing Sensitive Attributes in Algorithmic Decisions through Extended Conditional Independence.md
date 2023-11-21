@@ -4,6 +4,8 @@ authors:
   - Alexander Williams Tolbert
 date: "To Be Determined"
 publication: "American Philosophical Quarterly (Under Review)"
-url_pdf:  
+publication_short: "American Philosophical Quarterly (Under Review)"
+publication_types: ["3"]
+url_pdf: ""
 featured: false
 ---
