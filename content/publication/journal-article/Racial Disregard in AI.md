@@ -3,8 +3,13 @@ title: "Racial Disregard in AI"
 authors:
   - Alexander Williams Tolbert
   - Jamelle Watson-Daniel
-date: "To Be Determined"
+date: "2023-01-01"
 publication: "American Philosophical Quarterly (Under Review)"
-url_pdf:  
+publication_short: "American Philosophical Quarterly (Under Review)"
+publication_types: ["2"]
+url_pdf: ""
 featured: false
 ---
+
+ 
+ 

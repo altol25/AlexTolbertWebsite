@@ -2,7 +2,7 @@
 title: "Race and Causation"
 authors:
   - Alexander Williams Tolbert
-date: "To Be Determined"
+date: "2023-01-01"
 publication: "Philosophy Compass (forthcoming)"
 publication_short: "Philosophy Compass (forthcoming)"
 publication_types: ["1"] # "1" represents a journal article
