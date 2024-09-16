@@ -57,7 +57,8 @@ superuser: true
 title: Alexander Williams Tolbert
 ---
 
-I am currently an Assistant Professor at the Department of Quantitative Theory and Methods. I am also the principal investigator of the [Tolbert Black Digital Studies Lab](https://sites.google.com/view/alextolbertlab/about) and the co-principal investigator of the [AI & Philosophy Lab](https://sites.google.com/view/aiphilosophylab/about?authuser=0) with [Emily  Ruth Diana](https://www.emilyruthdiana.com/). I completed my Ph.D. in Philosophy at the University of Pennsylvania and concurrently earned a Masters in Statistics from the Wharton School at the same institution.  
+I am currently an Assistant Professor in the Department of Quantitative 
+Theory and Methods. I am also the principal investigator of the [Tolbert Black Digital Studies Lab](https://sites.google.com/view/alextolbertlab/about) and the co-principal investigator of the [AI & Philosophy Lab](https://sites.google.com/view/aiphilosophylab/about?authuser=0) with [Emily  Ruth Diana](https://www.emilyruthdiana.com/). I completed my Ph.D. in Philosophy at the University of Pennsylvania and concurrently earned a Masters in Statistics from the Wharton School at the same institution.  
 
 My doctoral journey was guided by my advisors [Anita Allen](https://www.law.upenn.edu/faculty/aallen2), a legal scholar and philosopher, [Quayshawn Spencer](https://philosophy.sas.upenn.edu/people/quayshawn-spencer), a philosopher of science and race, and [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), a computer scientist and machine learning researcher. My dissertation committee was further enriched with the expertise of [Samuel Freeman](https://philosophy.sas.upenn.edu/people/samuel-freeman), a specialist in political philosophy and ethics, [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), a computer scientist specializing in machine learning, and [Scott Weinstein](https://www.cis.upenn.edu/~weinstei/), a mathematical logician.
 
