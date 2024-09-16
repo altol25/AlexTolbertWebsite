@@ -1,5 +1,5 @@
 ---
-title: "Race and Causation"
+title: "Philosophy of race and causation ii: Potential replies"
 authors:
   - Alexander Williams Tolbert
 date: "2023-01-01"
